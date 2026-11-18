@@ -1,0 +1,4 @@
+com\mycompany\salesreport\PrintProduct.class
+com\mycompany\salesreport\Product.class
+com\mycompany\salesreport\IProduct.class
+com\mycompany\salesreport\SalesReport.class
